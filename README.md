@@ -41,7 +41,7 @@ Welcome to my coding sanctuary. I'm **GoatRico** 🐐, a Fivem enthusiast on a j
 
 Connect with me and let's build the future one line at a time!
 You can find me on [GitHub](https://github.com/GoatRico).
-
+Feel free to reach out to me on Discord as well at `goat_rico`.
 
 
 <summary>GitHub Stats 📊</summary>
