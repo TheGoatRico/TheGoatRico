@@ -3,7 +3,7 @@
 
 ## GitHub Statistics
 
-![**GoatRico** 🐐 Stats](https://github-readme-stats.vercel.app/api?username=TheGoatRicov&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+![**GoatRico** 🐐 Stats](https://github-readme-stats.vercel.app/api?username=TheGoatRico&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 
 ## Hey there, fellow code explorer! 👋
 
