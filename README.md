@@ -1,6 +1,10 @@
 ## Visitor Counter
   <img src="https://profile-counter.glitch.me/TheGoatRico/count.svg" />
 
+## GitHub Statistics
+
+![**GoatRico** 🐐 Stats](https://github-readme-stats.vercel.app/api?username=TheGoatRicov&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+
 ## Hey there, fellow code explorer! 👋
 
 Welcome to my coding sanctuary. I'm **GoatRico** 🐐, a Fivem enthusiast on a journey of Lua mastery.
