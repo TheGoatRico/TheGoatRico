@@ -4,10 +4,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheGoatRico&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TheGoatRico)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 ## Hey there, fellow code explorer! 👋
 
 Welcome to my coding sanctuary. I'm **GoatRico** 🐐, a Fivem enthusiast on a journey of Lua mastery.
