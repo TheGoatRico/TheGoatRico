@@ -1,3 +1,6 @@
+## Visitor Counter
+  <img src="https://profile-counter.glitch.me/TheGoatRico/count.svg" />
+
 ## Hey there, fellow code explorer! 👋
 
 Welcome to my coding sanctuary. I'm **GoatRico** 🐐, a Fivem enthusiast on a journey of Lua mastery.
