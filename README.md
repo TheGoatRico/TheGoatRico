@@ -48,10 +48,6 @@ You can find me on [GitHub](https://github.com/GoatRico).
 Feel free to reach out to me on Discord as well at `goat_rico`.
 
 
-<summary>GitHub Stats 📊</summary>
-<img align="left" alt="GoatRico's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TheGoatRico&show_icons=true&hide_border=true" />
-
-
 <!-- Responsive GIF -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://media.tenor.com/JEBHQ33YWfAAAAAC/goat.gif">
